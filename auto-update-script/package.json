@@ -1,0 +1,18 @@
+{
+  "name": "auto-update-script",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/auto-update-script/start": {
+      "message": "auto-update-script:start"
+    },
+    "i18n:MAIN_MENU.package.title/auto-update-script/stop": {
+      "message": "auto-update-script:stop"
+    }
+  },
+  "dependencies": {
+    "chokidar": "^3.4.0"
+  }
+}
